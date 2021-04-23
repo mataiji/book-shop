@@ -1,0 +1,50 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> c3f9e182ad10e91ec02888f6359e19425797d3bf
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+<<<<<<< HEAD
+=======
+.DS_Store
+node_modules
+/dist
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+>>>>>>> f2727f1 (add Book)
+=======
+>>>>>>> c3f9e182ad10e91ec02888f6359e19425797d3bf
